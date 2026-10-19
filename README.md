@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Giuliano 👋
+
+MSc in Management @ LUISS. I gravitate towards data & quantitative tasks, and I like to experiment with coding a lot. I love ... too.
+
+## Languages & Tools (Tech Stack)
+
+- **Languages:** HTML, Python, R, SQL
+- **Tools:** RStudio, VSCode
 
 <!--
 **giulianocerullo/giulianocerullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
