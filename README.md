@@ -1,6 +1,6 @@
-## Hi, I'm Giuliano.
+## Hi, I'm Giuliano. 🌏
 
-I'm an **MSc in Management** student @ **LUISS**. I gravitate towards **data & quantitative work**, and I like to experiment with code a lot. I love Excel too.
+I'm an **MSc in Management** student @ **LUISS**. I gravitate towards **data & quantitative work**, and I like to experiment with code. I love Excel too.
 
 <!--
 **giulianocerullo/giulianocerullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
